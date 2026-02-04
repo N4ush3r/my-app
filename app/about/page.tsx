@@ -11,7 +11,7 @@ export default function AboutPage() {
     <section className="w-full max-w-3xl mx-auto py-24 px-4 sm:px-6 lg:px-8 pt-32">
       <div className="space-y-12">
         <div className="flex justify-center">
-          <div className="relative border-[20px] border-green-600 bg-white p-4 shadow-2xl dark:border-green-700 dark:bg-zinc-800">
+          <div className="relative border-[20px] border-emerald-600 bg-white p-4 shadow-2xl dark:border-green-700 dark:bg-zinc-800">
             <div className="relative h-64 w-64 overflow-hidden bg-zinc-100 dark:bg-zinc-900">
               <Image
                 src="/profile.jpg"
